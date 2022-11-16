@@ -1,0 +1,2 @@
+{"username": "dev", "password": "dawg", "bananas": 164, "multiClicks": 11}
+{"username": "test_1", "password": "testpass", "bananas": 20, "multiClicks": 1}
